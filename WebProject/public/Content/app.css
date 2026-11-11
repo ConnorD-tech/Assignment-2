@@ -1,0 +1,13 @@
+#CardCase
+{
+    width: 95%;
+    background-color: orange;
+    height: 580px;
+    margin-left: 45px;
+}
+#CardHolder
+{
+    padding-top: 20px;
+    padding-left: 5.75%;
+    float: left;
+}
