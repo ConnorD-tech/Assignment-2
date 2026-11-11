@@ -1,13 +1,24 @@
 #CardCase
 {
     width: 95%;
-    background-color: orange;
-    height: 580px;
+    background-color: rgb(201, 180, 149);
+    border: 3px solid black;
+    height: 650px;
     margin-left: 45px;
+    border-radius: 2%;
 }
 #CardHolder
 {
     padding-top: 20px;
     padding-left: 5.75%;
     float: left;
+}
+.card-body
+{
+    border: 3px solid black;
+    border-radius: 3%;
+}
+body
+{
+    background-color: rgb(253, 160, 21);
 }
